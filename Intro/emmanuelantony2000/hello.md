@@ -9,5 +9,6 @@ My name is Emmanuel Antony and I am from CS1B in MEC. This is a short intro.
 1. **Python**, my fav lang
 2. **C++**, my 2nd fav
 3. **Java**, a noobie
-# Lastly...
+# Lastly... :smiley:
 Thank you for reading my intro. Hope you have a good day.
+I would like to contribute to open source software and would like to be a part of FOSS MEC.
