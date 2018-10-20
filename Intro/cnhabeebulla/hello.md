@@ -5,6 +5,6 @@ My name is Habeebulla.c.n from Lakshadweep now in MEC at CSB.
 2. Mostly anime fan. :raising_hand_man:
 3. And a Web page designer Knowing only HTML (a NOOBIE):computer:. Also a **beginner** in programming.
 # FINALLY
-THANK YOU FOR READING THIS INTRO.
+THANK YOU FOR READING THIS INTRO. I Think that this had helped you a lot
 
 
