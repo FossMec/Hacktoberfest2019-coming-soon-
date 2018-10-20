@@ -1,7 +1,7 @@
 Hello,
 
 My name is S Sandeep Pillai
-I'm from class CS A
+Btech Computer Science Engineering student from CSA
 I like cats.
 
 
